@@ -1,7 +1,7 @@
-# Graduation Project
+# PharmaSmart – An Integrated Digital Platform for Pharmacy Management
 
-## Web Application
-https://github.com/PS123/Pharmacy-Web
+## 🌐 Web Application
+https://github.com/HammamShaikhIbrahim/PharmaSmart-Web
 
-## Mobile Application
-https://github.com/PS123/Pharmacy-App
+## 📱 Mobile Application
+https://github.com/HammamShaikhIbrahim/PharmaSmart-Mobile
